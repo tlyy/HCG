@@ -7,8 +7,6 @@ on Dopamine. SPR [(Schwarzer et al, 2021)](spr), SR-SPR [(D'Oro et al, 2023)](sr
 To install the repository, simply run `pip install -r requirements.txt`.
 Note that depending on your operating system and cuda version extra steps may be necessary to
 successfully install JAX: please see [the JAX install instructions](https://pypi.org/project/jax/) for guidance.
-For DMControl,
-intstall the osmesa with `apt install libosmesa6`.
 
 
 ## Training
